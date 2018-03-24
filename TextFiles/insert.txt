@@ -1,0 +1,6 @@
+==insert==
+NumTree,Lot,Age,Type
+100,1,20,Apple
+50,3,50,Oak
+1000,2,5,Pine
+50,8,40,Oak

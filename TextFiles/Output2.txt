@@ -1,0 +1,4 @@
+NumTree,Lot,Age,Type,Sold,TreeLevel
+50,8,40,no,Oak,2
+100,1,20,no,Apple,1
+1000,2,5,no,Pine,2

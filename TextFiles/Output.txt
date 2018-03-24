@@ -1,0 +1,7 @@
+NumTree,Lot,Age,Type,Sold,TreeLevel
+50,8,40,Oak,yes,2
+100,1,20,Apple,no,1
+1000,2,5,Pine,yes,2
+
+min number of tree is Oak lot 8
+max number of tree is Pine lot 2
